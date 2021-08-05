@@ -8,9 +8,11 @@
 
 Test paragraph to show next to cowpea timeline.
 <param ve-knightlab-timeline 
-       source=“1W0SMnkIazbZBjC-xTUWGr2oHYtt0yCTuwkxY9U3Dtdc&font=Default&lang=en&initial_zoom=3&height=650” 
+       source=“1W0SMnkIazbZBjC-xTUWGr2oHYtt0yCTuwkxY9U3Dtdc” 
        timenav-position=“bottom” 
-       hash-bookmark=“false” >
+       hash-bookmark=“false” 
+       initial-zoom="3"
+       height="650">
 ---
 
 ## Elements removed after adding timeline
