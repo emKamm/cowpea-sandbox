@@ -7,7 +7,7 @@
        layout="vertical">
 
 Test paragraph to show next to cowpea timeline.
-<param ve-iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1W0SMnkIazbZBjC-xTUWGr2oHYtt0yCTuwkxY9U3Dtdc&font=Default&lang=en&initial_zoom=3&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'">
+<param ve-knightlab-timeline source=“https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1W0SMnkIazbZBjC-xTUWGr2oHYtt0yCTuwkxY9U3Dtdc&font=Default&lang=en&initial_zoom=3&height=650” timenav-position=“bottom” hash-bookmark=“false” initial-zoom=“1" height=“750”>
 ---
 
 ## Elements removed after adding timeline
