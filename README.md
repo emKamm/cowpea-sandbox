@@ -8,12 +8,13 @@
 
 Test paragraph to show next to cowpea timeline.
 <param ve-knightlab-timeline 
-       source=“1W0SMnkIazbZBjC-xTUWGr2oHYtt0yCTuwkxY9U3Dtdc” 
+       source="1W0SMnkIazbZBjC-xTUWGr2oHYtt0yCTuwkxY9U3Dtdc"
        timenav-position=“bottom” 
        hash-bookmark=“false” 
        initial-zoom="3"
        height="650">
----
+       
+___ 
 
 ## Elements removed after adding timeline
 ## A pea by many names
