@@ -41,6 +41,13 @@ many Northern European botanists were somewhat uninformed about the plant, their
        
 For example, in a 1636 edition of English botanist <span eid="Q1333338"> John Gerard’s _Herball_ </span>, or _Generall historie of plants_, the author references Phaseolus peregrinus IIII, describing it as the “Indian Kidney bean with small white fruit.”*
 
+___
+
+## Bantu Language JSON Test
+This is a test of how Juncture interacts with this element. 
+<param ve-map>
+<param ve-map-layer geojson url="https://gist.github.com/emKamm/ba5ad36d720c04b40c9398c4a07b8857">
+
 
 
 
