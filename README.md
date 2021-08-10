@@ -45,7 +45,7 @@ ___
 
 ## Bantu Language JSON Test
 This is a test of how Juncture interacts with this element. 
-<param ve-tabulator url="FAOSTAT_Data_8-10-2021.csv">
+<param ve-graphic img="" title="">
 
 
 
