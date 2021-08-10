@@ -45,7 +45,8 @@ ___
 
 ## Bantu Language JSON Test
 This is a test of how Juncture interacts with this element. 
-<param ve-graphic img="" title="">
+<param ve-graphic img="https://github.com/emKamm/cowpea-sandbox/blob/main/chart.svg" title="Worldwide Cowpea Acreage and Yield">
+<param ve-tabulator url="https://github.com/emKamm/cowpea-sandbox/blob/main/FAOSTAT_data_8-10-2021.csv">
 
 
 
