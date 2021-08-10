@@ -45,8 +45,7 @@ ___
 
 ## Bantu Language JSON Test
 This is a test of how Juncture interacts with this element. 
-<param ve-map>
-<param ve-map-layer geojson url="bantu_languages.json">
+<param ve-tabulator url="FAOSTAT_Data_8-10-2021.csv">
 
 
 
